@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Shashank Mehtry<br>🌱 I’m currently learning[Java, PythonAI, etc.]<br><br>💻 Interested in [AI, Machine learning, Generative AI, etc.]<br><br>🚀 Exploring open-source contributions and building cool projects<br><br>📫 Reach me at: [https://www.linkedin.com/in/shashank-mehtry-482953333/]
+👋 Hi, I'm Shashank Mehtry<br>🌱 I’m currently learning[Python,AI,JAVA etc.]<br><br>💻 Interested in [AI, Machine learning, Generative AI, etc.]<br><br>🚀 Exploring open-source contributions and building cool projects<br><br>📫 Reach me at: [https://www.linkedin.com/in/shashank-mehtry-482953333/]
 
 
 ## 🌐 Socials:
